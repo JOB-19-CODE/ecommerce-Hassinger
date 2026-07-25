@@ -15,7 +15,7 @@ const Header = ({ cantidad }) => {
           to="/"
           className="text-xl font-lora font-bold text-brand-primary hover:text-green-700 transition-colors"
         >
-          RAIZ CHONTABAMBINO
+          Raíz Oxapampina
         </Link>
       </div>
 

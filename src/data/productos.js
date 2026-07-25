@@ -5,7 +5,7 @@ import queso from "../assets/queso.avif";
 export const productosBd = [
   {
     id: 1,
-    nombre: "Miel de Abeja Premium 500g",
+    nombre: "DULCE de Abeja Premium 500g",
     precio: 18.0,
     precioAntiguo: 25.0,
     descuento: "-20%",
